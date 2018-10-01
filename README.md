@@ -1,5 +1,5 @@
-#Who's that Pokemon?
+# Amazon Echo Skill - Who's that Pokemon?
 
-##Amazon Echo - Alexa skill to guess the name of the Pokemon displayed in the Alexa app. 
+An Alexa skill built in Javascript to mimic the "Who's that Pokemon?" quiz from the Pokemon TV series. It displays an image sprite from the Pokemon API to the user's Alexa mobile app, and the user verbally guesses to their Echo device. 
 
-Uses the Pokemon API's image sprites
+This skill was identified as a top skill in the Alexa skills store. 
